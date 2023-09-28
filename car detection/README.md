@@ -8,4 +8,4 @@
 ####  Upload the dataset on roboflow and label it to one class called "car" using the labeling toolbar
 #### Uploaded it in  your drive in a folder called yolov3
 #### Upload a test image in the folder in your drive
-#### Then download my notebook and run all cells except the training cells
+#### Then download my notebook and run all cells try to leave the training for as many hours as possible till you get your desired results
