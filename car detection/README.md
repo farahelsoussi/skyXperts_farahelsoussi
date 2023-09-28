@@ -5,5 +5,7 @@
 #### Download dataset from kaggle https://www.kaggle.com/datasets/sshikamaru/car-object-detection
 #### Create an account on  roboflow
 #### Create an object detection project on roboflow
-####  Upload the dataset on roboflow and label it to one class called car using the labeling user interface
-#### 
+####  Upload the dataset on roboflow and label it to one class called "car" using the labeling toolbar
+#### Uploaded it in  your drive in a folder called yolov3
+#### Upload a test image in the folder in your drive
+#### Then download my notebook and run all cells except the training cells
